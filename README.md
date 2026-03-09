@@ -23,7 +23,7 @@ I'm a **Software Engineer** based in 🇱🇰 Sri Lanka, focused on building rob
 - 🔭 &nbsp;Currently building full-stack web applications
 - 🧠 &nbsp;Focused on clean architecture, API design, and performance
 - 🤝 &nbsp;Open to collaboration on meaningful open-source projects
-- 📬 &nbsp;Reach me via [GitHub](https://github.com/isurugayashan) or [LinkedIn](https://linkedin.com/in/isurugayashan)
+- 📬 &nbsp;Reach me via [GitHub](https://github.com/isurugayashan) or [LinkedIn]([https://linkedin.com/in/isurugayashan](https://www.linkedin.com/in/isuru-gayashan-942a89249/))
 
 ---
 
